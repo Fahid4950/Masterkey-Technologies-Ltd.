@@ -1,0 +1,60 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.container{
+    margin: 60px;
+     
+}
+
+.link-button{
+    text-decoration: none;
+ 
+
+ 
+}
+h1{
+    color: white;
+    font-size: 2em;
+}
+.foot{
+    color: rgb(255, 255, 255);
+    font-size: 2em;
+    text-align: center;
+
+}
+
+
+ /* footer */
+
+ footer{
+     background-color: #471b50;
+ }
+
+  
+/* media quarry */
+@media only screen and (max-width:688px) {
+   
+    .players {
+        grid-template-columns: repeat(1, 1fr);
+       
+    }
+    .flexible-container{
+        
+        flex-direction: column;
+
+    }
+    .highlight{
+        flex-direction: column;
+
+    }
+    footer{
+        flex-direction: column;
+
+    }
+    footer img{
+        width: 250px;
+        
+    }
+
+
+}

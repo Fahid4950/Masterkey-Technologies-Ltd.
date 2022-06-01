@@ -1,0 +1,46 @@
+.bgc{
+    background-color: #F2F2F2;
+}
+
+
+
+
+.btn btn-primary{
+    align-items: center;
+}
+.right-half{
+    background-color: blueviolet;
+    height: 250px;
+}
+.{
+    
+    text-decoration: none;
+    background-image: linear-gradient( tomato);
+    border-radius: 5px;
+    font-weight: 700;
+    padding: 10px 40px;
+}
+.text{
+    text-align: center;
+}
+
+.title{
+    background-color: blueviolet;
+    width: 500px;
+    height: 400px;
+}
+.blue{
+    background-color: blueviolet;
+}
+
+.foot{
+    background-color: #F2F2F2;
+}
+.logo{
+    height: 150px;
+}
+.right-nav{
+    background-color: white;
+    height: 200px;
+}
+
